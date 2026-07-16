@@ -27,6 +27,6 @@
 
 ## 📊 GitHub Stats
 
-*(Saleh Mohamed Saleh)*
+*(Replace `Saleh Mohamed Saleh` with your actual GitHub username)*
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
