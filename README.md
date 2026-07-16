@@ -1,9 +1,11 @@
 # Welcome to my profile 👋
 
-* 🏢 **Computer Science Teacher** at Al-Azhar Al-Sharif, working to bridge the gap between academic theories and practical applications in the world of programming.
-* 🎓 **Software Developer** specializing in the .NET ecosystem, dedicated to building robust and scalable software solutions.
-* 💬 **Tech Enthusiast:** Expert in **C#**. I am always happy to discuss software architecture, Clean Code principles, and system development.
-* ⚡ **Fun fact:** I am deeply passionate about **C#**, and I believe that writing clean, maintainable code is the cornerstone of any successful technical project.
+I am a **Backend Software Engineer** and Computer Science Teacher at Al-Azhar Al-Sharif, dedicated to building robust and scalable server-side systems. I bridge the gap between academic theory and practical, high-performance software engineering.
+
+* 🏢 **Computer Science Teacher** at Al-Azhar Al-Sharif.
+* 🎓 **Backend Software Engineer** specializing in the .NET ecosystem.
+* 💬 **Tech Enthusiast:** Expert in **C#**. Feel free to reach out to discuss software architecture, Clean Code principles, and API development.
+* ⚡ **Fun fact:** I am deeply passionate about **C#**; I believe that writing clean, maintainable code is the cornerstone of any successful technical project.
 
 ---
 
@@ -27,6 +29,4 @@
 
 ## 📊 GitHub Stats
 
-*(Replace `Saleh Mohamed Saleh` with your actual GitHub username)*
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleh-Mohamed-Saleh&show_icons=true&theme=radical)
