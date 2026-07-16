@@ -1,10 +1,12 @@
-# مرحبًا بك في ملفي الشخصي! 👋
+Welcome to my profile 👋
 
-## 👨‍💻 نبذة عني
-- 🏢 أعمل كـ [اكتب مسمى وظيفتك هنا، مثلاً: Software Engineer] في [اسم الشركة].
-- 🎓 كطالب في مجال [مجالك الدراسي]، أستكشف دائمًا تقنيات جديدة لتطوير مهاراتي.
-- 💬 لا تتردد في سؤالي عن خبراتي في [لغات البرمجة التي تتقنها]، أو أي شيء يتعلق بـ [مجال اهتمامك].
-- ⚡ حقيقة ممتعة: أنا شغوف بـ [هوايتك أو شيء تحبه] وأعتقد أن [جملة ملهمة أو مضحكة].
+🏢 Computer Science Teacher at Al-Azhar Al-Sharif, working to bridge the gap between academic theories and practical applications in the world of programming.
+
+🎓 Software Developer specializing in the .NET ecosystem, dedicated to building robust and scalable software solutions.
+
+💬 Tech Enthusiast: Expert in C#. I am always happy to discuss software architecture, Clean Code principles, and system development.
+
+⚡ Fun fact: I am deeply passionate about C#, and I believe that writing clean, maintainable code is the cornerstone of any successful technical project..
 
 ---
 
