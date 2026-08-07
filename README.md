@@ -29,23 +29,21 @@ I am a dedicated **Backend Software Engineer** and Computer Science Teacher at *
   <img src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core%20API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINQ-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### **Databases & Architecture Patterns**
+### **API Design, Testing & Documentation**
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/CQRS-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/FluentValidation-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white" />
-</p>
-
-### **Tools & Version Control**
-<p>
-  <img src="https://img.shields.io/badge/Git-%F0%9F%94%86-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scalar-000000?style=for-the-badge&logo=scalar&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### **Architecture & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/FluentValidation-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 ---
@@ -53,8 +51,9 @@ I am a dedicated **Backend Software Engineer** and Computer Science Teacher at *
 ## 🏗️ Featured Enterprise Projects
 
 * 🏫 **Smart Student Management System (RESTful API)**
-  * *Tech Stack:* ASP.NET Core Web API, EF Core Code First, SQL Server, ASP.NET Core Identity, JWT, FluentValidation, AutoMapper.
-  * *Features:* Clean Architecture, role-based security, comprehensive DTOs validation, and structured enterprise database design.
+  * *Tech Stack:* ASP.NET Core, EF Core, SQL Server, JWT, FluentValidation.
+  * *API Documentation:* Fully documented using **Swagger/OpenAPI** and optimized with **Scalar** for modern API exploration.
+  * *Testing:* Rigorously tested using **Postman** collections to ensure endpoint reliability and security.
 
 ---
 
