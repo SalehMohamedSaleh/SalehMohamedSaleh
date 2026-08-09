@@ -1,75 +1,247 @@
-<div align="center">
+# 👋 Hi, I'm Saleh Mohamed Saleh
 
-# Hi there, I'm Saleh Mohamed Saleh 👋
+### 🚀 .NET Backend Software Engineer · Computer Science Educator
 
-### 🚀 **.NET Backend Software Engineer & Computer Science Educator**
+**Building reliable backend systems with clean architecture, maintainable code, and scalable API design.**
 
-<img src="https://komarev.com/ghpvc/?username=SalehMohamedSaleh&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-</div>
+\
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a dedicated **Backend Software Engineer** and Computer Science Teacher at **Al-Azhar Al-Sharif**. I specialize in engineering robust, secure, and scalable server-side applications, bridging the gap between academic theory and high-performance enterprise software development.
+I'm a **Backend Software Engineer** and **Computer Science Educator at Al-Azhar Al-Sharif**, passionate about designing robust backend systems and turning software engineering principles into practical, maintainable solutions.
 
-* 🏢 **Current Role:** Computer Science Teacher at Al-Azhar Al-Sharif.
-* 🎓 **Core Expertise:** .NET Ecosystem, Clean Architecture, and RESTful APIs.
-* 💡 **Philosophy:** Writing clean, maintainable code is the cornerstone of any successful technical project.
-* 📬 **Let's Connect:** Reach out for discussions on software architecture, C#, and backend scalability.
+My focus is on building **secure, testable, and scalable RESTful APIs** using the .NET ecosystem while applying modern software architecture and engineering practices.
+
+* 🔭 Currently building **enterprise-style backend applications with .NET**
+* 🧠 Focused on **Clean Architecture, REST APIs, EF Core, and SQL Server**
+* 🔐 Interested in **Authentication, Authorization, JWT, and API Security**
+* 🧪 Passionate about **API testing, validation, and code quality**
+* 🎓 Teaching **Computer Science and Programming**
+* 💡 Believe that **clean code and good architecture are long-term investments**
 
 ---
 
-## 🛠️ Technical Stack & Architecture
+## 🧰 Tech Stack
 
-### **Backend & Core Technologies**
-<p>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core%20API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+### Backend
+
+
+
+\
+
+### Database
+
+\
+
+### Architecture & Design
+
+
+
+\
+
+### API Development & Testing
+
+
+
+\
+
+### Security & Validation
+
+\
+
+---
+
+## 🏗️ Engineering Practices
+
+I care about more than simply making an API work.
+
+My development approach focuses on:
+
+```text
+Clean Code
+    ↓
+SOLID Principles
+    ↓
+Separation of Concerns
+    ↓
+Clean Architecture
+    ↓
+Testable & Maintainable APIs
+    ↓
+Scalable Backend Systems
+```
+
+### What I Apply
+
+* ✅ Clean and maintainable code
+* ✅ SOLID principles
+* ✅ Separation of concerns
+* ✅ Dependency Injection
+* ✅ Repository / Service patterns when appropriate
+* ✅ DTOs and mapping
+* ✅ FluentValidation
+* ✅ Global exception handling
+* ✅ Authentication & Authorization
+* ✅ JWT-based security
+* ✅ EF Core & Fluent API
+* ✅ Database constraints and indexing
+* ✅ RESTful API conventions
+* ✅ Swagger / OpenAPI documentation
+* ✅ API testing with Postman
+
+---
+
+# 🚀 Featured Project
+
+## 🏫 Smart Student Management System
+
+A backend-focused **Student Management System** designed using modern .NET development practices.
+
+### 🎯 Core Features
+
+* 👨‍🎓 Student Management
+* 👨‍🏫 Teacher Management
+* 📚 Course Management
+* 📝 Enrollment Management
+* 📊 Grade Management
+* 📅 Attendance Tracking
+* 🔐 Authentication & Authorization
+* 🖼️ Student Profile Images
+
+### 🛠️ Technology Stack
+
+| Layer             | Technology                    |
+| ----------------- | ----------------------------- |
+| Backend           | ASP.NET Core                  |
+| Language          | C#                            |
+| ORM               | Entity Framework Core         |
+| Database          | SQL Server                    |
+| Authentication    | JWT                           |
+| Validation        | FluentValidation              |
+| Mapping           | AutoMapper                    |
+| API Documentation | Swagger / OpenAPI             |
+| API Exploration   | Scalar                        |
+| Testing           | Postman                       |
+| Architecture      | Clean Architecture Principles |
+
+### 🗄️ Database Design
+
+The system follows a relational database design with clearly defined relationships and constraints.
+
+Key entities include:
+
+```text
+Student
+   │
+   ├── Enrollment ─── Course
+   │       │
+   │       ├── Grades
+   │       │
+   │       └── Attendance
+   │
+ClassRoom
+
+Teacher
+   │
+   └── CourseInstructor ─── Course
+```
+
+The database design also includes:
+
+* 🔹 Foreign Key constraints
+* 🔹 Unique constraints
+* 🔹 Composite indexes
+* 🔹 Check constraints
+* 🔹 Enum-to-string conversions
+* 🔹 Soft deletion
+* 🔹 Audit timestamps
+* 🔹 Fluent API configurations
+
+---
+
+## 📐 Development Philosophy
+
+> **"Good software is not just software that works — it's software that can be understood, tested, maintained, and extended."**
+
+I aim to write backend systems that are:
+
+**Readable → Maintainable → Testable → Secure → Scalable**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[Saleh Mohamed Saleh](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Saleh Mohamed Saleh](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-### **API Design, Testing & Documentation**
-<p>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scalar-000000?style=for-the-badge&logo=scalar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### **Architecture & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/FluentValidation-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=[Saleh Mohamed Saleh](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏗️ Featured Enterprise Projects
+## 📚 Currently Learning & Improving
 
-* 🏫 **Smart Student Management System (RESTful API)**
-  * *Tech Stack:* ASP.NET Core, EF Core, SQL Server, JWT, FluentValidation.
-  * *API Documentation:* Fully documented using **Swagger/OpenAPI** and optimized with **Scalar** for modern API exploration.
-  * *Testing:* Rigorously tested using **Postman** collections to ensure endpoint reliability and security.
+I'm continuously improving my backend engineering skills in areas such as:
 
----
-
-## 📊 GitHub Stats & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalehMohamedSaleh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehMohamedSaleh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+* 🏛️ Advanced Clean Architecture
+* ⚡ ASP.NET Core Performance
+* 🗄️ Database Performance & Optimization
+* 🔐 API Security
+* 🧪 Automated Testing
+* 🐳 Docker & Containerization
+* ☁️ Cloud & Deployment
+* 🔄 CI/CD
+* 📐 Software Architecture & Design Patterns
 
 ---
 
-## 📬 Connect with Me
+## 🎓 Education & Teaching
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/saleh-mohamed-3023702a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+Alongside software engineering, I work as a **Computer Science Educator**, helping students understand programming and computer science concepts.
+
+I enjoy connecting:
+
+**Computer Science Theory**
+
+⬇️
+
+**Programming Fundamentals**
+
+⬇️
+
+**Software Engineering Principles**
+
+⬇️
+
+**Real-World Applications**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+* 💻 .NET & C#
+* 🏗️ Backend Architecture
+* 🗄️ Database Design
+* 🔐 API Security
+* 🚀 Software Engineering
+* 🎓 Computer Science Education
+
+If you're interested in backend development, software architecture, or collaborative projects, feel free to connect.
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Building better software, one API at a time. 🚀**
+
+</p>
