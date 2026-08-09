@@ -174,13 +174,24 @@ I aim to write backend systems that are:
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Saleh Mohamed Saleh](https://github-readme-stats.vercel.app/api?username=Saleh Mohamed Saleh&show_icons=true&theme=tokyonight&hide_border=true)&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Saleh Mohamed Saleh](https://github-readme-stats.vercel.app/api/top-langs/?username=SalehMohamedSaleh&layout=compact&theme=tokyonight&hide_border=true)&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=SalehMohamedSaleh&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=SalehMohamedSaleh&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[Saleh Mohamed Saleh](https://streak-stats.demolab.com?user=SalehMohamedSaleh&theme=tokyonight&hide_border=true)&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=SalehMohamedSaleh&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
